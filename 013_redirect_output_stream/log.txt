@@ -1,0 +1,3 @@
+Initial default value for age is 18.
+Initial default value for gender is female.
+Combine two pieces of information of this person, the result is: This person is a female, and has a age of 18.
